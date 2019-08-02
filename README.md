@@ -10,12 +10,12 @@ Organizer(s): Jennifer L Green, Montana State University
 
 Chair(s): Erin E Blankenship, University of Nebraska-Lincoln
 
-8:35 AM	Writing for Newspapers, Magazines, Comics and More: Making a Real Impact on the Broadest Audience ([slides](NUZZO-2019-JULY31-JSM-WRITING.pdf): Regina Nuzzo, American Statistical Association
+8:35 AM	Writing for Newspapers, Magazines, Comics and More: Making a Real Impact on the Broadest Audience ([slides](NUZZO-2019-JULY31-JSM-WRITING.pdf)): Regina Nuzzo, American Statistical Association
 
-9:00 AM	The Art of Storytelling: Engaging Audiences with Podcasts and Curiosity Cafes ([slides](https://github.com/Amherst-Statistics/JSM2019/blob/master/green.pdf): Jennifer L Green, Montana State University; Shannon Willoughby, Montana State University; Brock LaMeres, Montana State University; Bryce Hughes, Montana State University; Leila Sterman, Montana State University; Christopher Organ, Montana State University; Kent Davis, Montana State University
+9:00 AM	The Art of Storytelling: Engaging Audiences with Podcasts and Curiosity Cafes ([slides](https://github.com/Amherst-Statistics/JSM2019/blob/master/green.pdf)): Jennifer L Green, Montana State University; Shannon Willoughby, Montana State University; Brock LaMeres, Montana State University; Bryce Hughes, Montana State University; Leila Sterman, Montana State University; Christopher Organ, Montana State University; Kent Davis, Montana State University
 
-9:25 AM	Statistics and Data Science Outreach Using Twitter: Communicating the Power of Statistics in 280 Characters (slides): Nicholas J. Horton, Amherst College
+9:25 AM	Statistics and Data Science Outreach Using Twitter: Communicating the Power of Statistics in 280 Characters ([slides](https://github.com/Amherst-Statistics/JSM2019/blob/master/twitter.pdf)): Nicholas J. Horton, Amherst College
 
-9:50 AM	Fake News Sells (slides): Liberty Vittert, University of Glasgow
+9:50 AM	Fake News Sells ([slides](https://github.com/Amherst-Statistics/JSM2019/blob/master/JSM2019-fakenewssells.pdf)): Liberty Vittert, University of Glasgow
 
 10:15 AM	Floor Discussion
