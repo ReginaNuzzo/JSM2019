@@ -1,6 +1,13 @@
 # JSM2019
 Talks from me, co-presenters, and sessions I organized
 
+## Association for Clinical and Translational Statisticians (ACTStat)
+Sunday, 7/28/2019, 9:00 - 10:00 AM
+
+Keynote
+
+
+
 ## Communicating to the Masses: Sharing Statistics and Data Science in a World of Sound Bites, Social Media, and Popular Press — Invited Papers
 Wed, 7/31/2019, 8:30 AM - 10:20 AM, CC-707
 
