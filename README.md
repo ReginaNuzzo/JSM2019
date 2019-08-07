@@ -4,7 +4,7 @@ Talks from me, co-presenters, and sessions I organized
 ## Association for Clinical and Translational Statisticians (ACTStat)
 Sunday, 7/28/2019, 9:00 - 10:00 AM
 
-[Keynote slides](https://github.com/ReginaNuzzo/JSM2019/blob/master/ACTStat-2019-July28-NUZZO_compressed.pdf)
+[Keynote slides](ACTStat-2019-July28-NUZZO_compressed.pdf)
 
 
 
